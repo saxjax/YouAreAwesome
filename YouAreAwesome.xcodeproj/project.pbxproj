@@ -6,8 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		5D4758E72E900B1700A8C213 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5D4758E62E900B1700A8C213 /* README.md */; };
+		5D4758E92E900B9500A8C213 /* Screenshot 2025-10-03 at 15.47.51.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D4758E82E900B9500A8C213 /* Screenshot 2025-10-03 at 15.47.51.png */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		5D4758D82E8FF8D500A8C213 /* YouAreAwesome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YouAreAwesome.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D4758E62E900B1700A8C213 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5D4758E82E900B9500A8C213 /* Screenshot 2025-10-03 at 15.47.51.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2025-10-03 at 15.47.51.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +39,8 @@
 		5D4758CF2E8FF8D500A8C213 = {
 			isa = PBXGroup;
 			children = (
+				5D4758E82E900B9500A8C213 /* Screenshot 2025-10-03 at 15.47.51.png */,
+				5D4758E62E900B1700A8C213 /* README.md */,
 				5D4758DA2E8FF8D500A8C213 /* YouAreAwesome */,
 				5D4758D92E8FF8D500A8C213 /* Products */,
 			);
@@ -109,6 +118,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D4758E72E900B1700A8C213 /* README.md in Resources */,
+				5D4758E92E900B9500A8C213 /* Screenshot 2025-10-03 at 15.47.51.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
